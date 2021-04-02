@@ -1,0 +1,22 @@
+﻿  소스.cpp
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(134): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(141): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(142): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(183): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(211): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(377): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(384): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(385): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(622): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(657): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(981): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(1016): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(1157): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(1254): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(1258): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(1506): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(1514): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(1520): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\baek\desktop\baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\consoleapplication1\소스.cpp(1549): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  ConsoleApplication1.vcxproj -> C:\Users\Baek\Desktop\Baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Baek\Desktop\Baek\1\cg\20143239_백혁인_그래픽스기말\기말과제_백혁인\Debug\ConsoleApplication1.pdb (Full PDB)
